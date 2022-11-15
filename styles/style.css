@@ -1,0 +1,21 @@
+img {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+    color: oldlace; 
+    font-family:'Times New Roman', Times, serif
+}
+
+h2 {
+    color: oldlace; 
+}
+
+body {
+    background-color: plum;
+}
